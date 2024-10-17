@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on 
-    - Implementing SQLITE from sratch in C. 
+    - Implementing SQLITE from sratch in C.
+    - Building and deploying learnintwoweeks.com
 - 🌱 I’m currently learning
     - Node.js
     - Low Level C programming
