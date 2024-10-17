@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, it's Niv👋🏼
 
 <!--
 **nivkapadia/nivkapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
