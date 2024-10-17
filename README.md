@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on 
+    - Implementing SQLITE from sratch in C. 
+- 🌱 I’m currently learning
+    - Node.js
+    - Low Level C programming
+    - Backend
+- 📫 How to reach me: nivkpd@gmail.com
