@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🔭 I’m currently working on 
-    - Implementing SQLITE from sratch in C.
+    - Enhancing my Next.JS skills
     - Building and deploying <a href="https://learnintwoweeks.com" target="_blank">learnintwoweeks.com</a>
 - 🌱 I’m currently learning
-    - Node.js
+    - CS50 AI
     - Low Level C programming
-    - Backend
+    - Enhancing knowledge Backend Development 
 - 📫 How to reach me: nivkpd@gmail.com
